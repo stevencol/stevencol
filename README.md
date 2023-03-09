@@ -2,7 +2,7 @@
 <h1 align="center">Hola Soy Steven :3</h1>
 <h3 align="center">Me encanta la programación tengo conocimientos en Java, Spring Boot, JavaScript, HTML y CSS. Me gusta trabajar en proyectos que desafíen mi creatividad y habilidades técnicas, y siempre estoy en busca de oportunidades para seguir aprendiendo y mejorando mis habilidades. Actualmente me estoy enfocando en mejorar mis habilidades en Spring Boot para desarrollar aplicaciones web y API de alta calidad. Me encanta trabajar en equipo y soy un firme creyente de la colaboración y el intercambio de conocimientos para lograr el éxito.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
